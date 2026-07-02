@@ -1,3 +1,6 @@
+[tool.vercel]
+entrypoint = "app.main:app"
+
 [project]
 name = "lyrics-api"
 version = "0.1.0"
